@@ -1,0 +1,118 @@
+11
+Cannondale Bicycle
+Farnace Room
+TREK943793793
+true
+500
+03/22/1995
+Aurora Cycle, Seattle
+vintage bike
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\bike.png
+Clara
+Under my desk
+KING 5430
+true
+0.00
+10/14/1998
+kumusha
+doll
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\doll.png
+Cup
+Sink
+None
+false
+5
+11/30/2020
+Amazon
+cup for cupping
+C:\Users\hp\Pictures\IMG_20190716_180720.jpg
+Tri-cycle
+hotel Room
+TRI943793
+true
+650
+07/20/1990
+Norton
+tried
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\tri.png
+Laptop
+Bed Room
+LAP793793
+false
+1000
+11/04/2019
+Norton
+Laptop
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\laptop.png
+Fridge
+Kitchen 
+FRI1624263
+true
+500
+03/02/2005
+Harare
+fridge one
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\fridge.png
+Nokia
+Bed Room
+NO10000383
+true
+1300
+09/30/2008
+Bulawayo
+vintage fridge
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\nokia.png
+Desk Top
+Office
+HP100005363
+false
+700
+12/22/2011
+Mutare
+HP
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\hp.png
+Rolex
+Spare Room
+ROL5242
+true
+3000
+01/17/2020
+Dubai
+vintage watch
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\rolex.png
+Jordan
+Bed Room
+JDN4362
+false
+750
+10/22/2018
+Dubai
+vintage shoes
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\jodan.png
+Casio Calculator
+Living Room
+CA89347874h347
+false
+150
+06/20/2015
+Harare
+calc
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\calc.png
+17
+Always Lost
+Basement office
+Driveway
+Family room
+My office
+Under my desk
+Under the other desk
+null
+Farnace Room
+hotel Room
+Bed Room
+Kitchen 
+Office
+Spare Room
+Living Room
+
+Sink
