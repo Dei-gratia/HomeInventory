@@ -24,8 +24,8 @@ false
 5
 11/30/2020
 Amazon
-vintage coffee cup
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\cup.jpg
+cup for cupping
+C:\Users\hp\Pictures\IMG_20190716_180720.jpg
 Tri-cycle
 hotel Room
 TRI943793
@@ -98,7 +98,7 @@ false
 Harare
 calc
 C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\calc.jpg
-18
+17
 Always Lost
 Basement office
 Driveway
@@ -116,4 +116,3 @@ Spare Room
 Living Room
 
 null
-Sink
