@@ -7,7 +7,7 @@ true
 03/22/1995
 Aurora Cycle, Seattle
 vintage bike
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\bike.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\bike.jpg
 Clara
 Under my desk
 KING 5430
@@ -34,7 +34,7 @@ true
 07/20/1990
 Norton
 tried
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\tri.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\tri.jpg
 Laptop
 Bed Room
 LAP793793
@@ -43,16 +43,16 @@ false
 11/04/2019
 Norton
 Laptop
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\laptop.png
-Fridge
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\laptop.jpg
+Air Cooler
 Kitchen 
 FRI1624263
 true
 500
 03/02/2005
 Harare
-fridge one
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\fridge.png
+Air Cooler
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\Cooler.jpg
 Nokia
 Bed Room
 NO10000383
@@ -61,7 +61,7 @@ true
 09/30/2008
 Bulawayo
 vintage fridge
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\nokia.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\nokia.jpg
 Desk Top
 Office
 HP100005363
@@ -70,7 +70,7 @@ false
 12/22/2011
 Mutare
 HP
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\hp.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\hp.jpg
 Rolex
 Spare Room
 ROL5242
@@ -79,7 +79,7 @@ true
 01/17/2020
 Dubai
 vintage watch
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\rolex.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\rolex.jpg
 Jordan
 Bed Room
 JDN4362
@@ -88,7 +88,7 @@ false
 10/22/2018
 Dubai
 vintage shoes
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\jodan.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\jordan.jpg
 Casio Calculator
 Living Room
 CA89347874h347
@@ -97,7 +97,7 @@ false
 06/20/2015
 Harare
 calc
-C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\calc.png
+C:\Users\hp\Documents\NetBeansProjects\HomeInventory\Inventory Photos\calc.jpg
 17
 Always Lost
 Basement office
@@ -115,4 +115,3 @@ Office
 Spare Room
 Living Room
 
-Sink
